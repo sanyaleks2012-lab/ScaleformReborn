@@ -1,3 +1,32 @@
-out/
+# Visual Studio
 .vs/
-.git/
+*.user
+*.suo
+*.sln.docstates
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Папки сборки
+out/
+build/
+Debug/
+Release/
+x64/
+x86/
+
+# Архивы
+*.7z
+*.zip
+*.rar
+
+# Временные файлы
+*.tmp
+*.log
+
+# Ваш личный файл (если не нужен в репозитории)
+helpdeepseek.txt

@@ -162,7 +162,8 @@ if (alertText) {
     alertText.style.marginTop = '5px';
     alertText.style.color = '#FFFFFF';
     alertText.style.textShadow = '1px 1px 2px #000000';
-    // Красный фон удалён
+    // Принудительно устанавливаем текст из локализации
+    alertText.text = $.Localize("#Cstrike_TitlesTXT_Game_Commencing");
 }
 
 var alertBg = contextPanel.FindChildTraverse('AlertBg');
