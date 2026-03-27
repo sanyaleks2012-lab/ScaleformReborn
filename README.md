@@ -3,3 +3,10 @@
 ![The old spectator menu has also been returned, and the old radar view has been restored](media/20260326232843_1.jpg)
 
 
+The old spectator menu has also been returned, and the old radar view has been restored
+
+![The old spectator menu has also been returned, and the old radar view has been restored](media/20260327012401_1.jpg)
+
+works as without skins...
+
+![The old spectator menu has also been returned, and the old radar view has been restored](media/20260326232659_1.jpg)
