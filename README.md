@@ -3,17 +3,17 @@
 ![1](media/20260326232843_1.jpg)
 
 
-The old spectator menu has also been returned, and the old radar view has been restored
+- The old spectator menu has also been returned, and the old radar view has been restored
 
 ![2](media/20260327012401_1.jpg)
 
-works as without skins...
+- works as without skins...
 
 ![3](media/20260326232659_1.jpg)
 
-as well as their presence using csgo_gc
+- as well as their presence using csgo_gc
 
 ![4](media/20260327012237_1.jpg)
 ![4.5](media/20260327012247_1.jpg)
 
-full support for all colors, sizes, screen borders, and transparency,
+- full support for all colors, sizes, screen borders, and transparency,
