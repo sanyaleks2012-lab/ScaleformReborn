@@ -17,3 +17,8 @@
 ![4.5](media/20260327012247_1.jpg)
 
 - full support for all colors, sizes, screen borders, and transparency,
+
+![5](media/20260327012255_1.jpg)
+![5.2](media/20260327012259_1.jpg)
+![5.3](media/20260327012320_1.jpg)
+- A full, restored version of the alert message
