@@ -12,3 +12,8 @@ works as without skins...
 ![3](media/20260326232659_1.jpg)
 
 as well as their presence using csgo_gc
+
+![4](media/20260327012237_1.jpg)
+![4.5](media/20260327012247_1.jpg)
+
+full support for all colors, sizes, screen borders, and transparency,
