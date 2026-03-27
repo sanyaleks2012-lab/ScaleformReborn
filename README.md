@@ -1,12 +1,14 @@
 # ScaleformReborn
 - This is a special modified Counter-Strike Global Offensive client, it returns to you that very particle of the old spirit of CSGO, but with the functions and capabilities of the CSGO_GC project (https://github.com/mikkokko/csgo_gc), but partially returns the old interface based on flash animations, namely scaleform ui, rejoice, be nostalgic and win with ScaleformReborn
-![The old spectator menu has also been returned, and the old radar view has been restored](media/20260326232843_1.jpg)
+![1](media/20260326232843_1.jpg)
 
 
 The old spectator menu has also been returned, and the old radar view has been restored
 
-![The old spectator menu has also been returned, and the old radar view has been restored](media/20260327012401_1.jpg)
+![2](media/20260327012401_1.jpg)
 
 works as without skins...
 
-![The old spectator menu has also been returned, and the old radar view has been restored](media/20260326232659_1.jpg)
+![3](media/20260326232659_1.jpg)
+
+as well as their presence using csgo_gc
