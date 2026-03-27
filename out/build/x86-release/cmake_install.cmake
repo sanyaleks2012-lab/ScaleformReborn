@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/hello kitik/Desktop/scaleform-main
+# Install script for directory: C:/Users/hello kitik/Desktop/scaleform-main/ScaleformReborn
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Users/hello kitik/Desktop/scaleform-main/out/install/x86-release")
+  set(CMAKE_INSTALL_PREFIX "C:/Users/hello kitik/Desktop/scaleform-main/ScaleformReborn/out/install/x86-release")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -35,7 +35,7 @@ endif()
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "C:/Users/hello kitik/Desktop/scaleform-main/out/build/x86-release/install_local_manifest.txt"
+  file(WRITE "C:/Users/hello kitik/Desktop/scaleform-main/ScaleformReborn/out/build/x86-release/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()
 if(CMAKE_INSTALL_COMPONENT)
@@ -51,6 +51,6 @@ else()
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "C:/Users/hello kitik/Desktop/scaleform-main/out/build/x86-release/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "C:/Users/hello kitik/Desktop/scaleform-main/ScaleformReborn/out/build/x86-release/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

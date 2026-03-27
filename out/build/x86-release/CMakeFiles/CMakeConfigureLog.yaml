@@ -4,252 +4,6 @@ events:
   -
     kind: "message-v1"
     backtrace:
-      - "C:/Program Files/CMake/share/cmake-4.3/Modules/CMakeDetermineSystem.cmake:212 (message)"
-      - "CMakeLists.txt:2 (project)"
-    message: |
-      The system is: Windows - 10.0.26200 - AMD64
-  -
-    kind: "find-v1"
-    backtrace:
-      - "C:/Program Files/CMake/share/cmake-4.3/Modules/CMakeNinjaFindMake.cmake:5 (find_program)"
-      - "CMakeLists.txt:2 (project)"
-    mode: "program"
-    variable: "CMAKE_MAKE_PROGRAM"
-    description: "Program used to build from build.ninja files."
-    settings:
-      SearchFramework: "NEVER"
-      SearchAppBundle: "NEVER"
-      CMAKE_FIND_USE_CMAKE_PATH: true
-      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
-      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
-      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
-      CMAKE_FIND_USE_INSTALL_PREFIX: true
-    names:
-      - "ninja-build"
-      - "ninja"
-      - "samu"
-    candidate_directories:
-      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/"
-      - "C:/Windows/System32/"
-      - "C:/Windows/"
-      - "C:/Windows/System32/wbem/"
-      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
-      - "C:/Windows/System32/OpenSSH/"
-      - "C:/Program Files/dotnet/"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
-      - "C:/Program Files/Git/cmd/"
-      - "C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/game/bin/win64/"
-      - "C:/Program Files/nodejs/"
-      - "C:/Program Files/CMake/bin/"
-      - "C:/Users/hello kitik/AppData/Local/Microsoft/WindowsApps/"
-      - "C:/Program Files/JetBrains/PyCharm 2025.1.1.1/bin/"
-      - "C:/Program Files/JetBrains/CLion 2020.3.2/bin/"
-      - "C:/Users/hello kitik/AppData/Local/Python/bin/"
-      - "C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2025.3.3/bin/"
-      - "C:/Users/hello kitik/AppData/Roaming/npm/"
-      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.32.31326/bin/Hostx86/x86/"
-    searched_directories:
-      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/ninja-build.com"
-      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/ninja-build.exe"
-      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/ninja-build"
-      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/ninja.com"
-      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/ninja.exe"
-      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/ninja"
-      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/samu.com"
-      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/samu.exe"
-      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/samu"
-      - "C:/Windows/System32/ninja-build.com"
-      - "C:/Windows/System32/ninja-build.exe"
-      - "C:/Windows/System32/ninja-build"
-      - "C:/Windows/System32/ninja.com"
-      - "C:/Windows/System32/ninja.exe"
-      - "C:/Windows/System32/ninja"
-      - "C:/Windows/System32/samu.com"
-      - "C:/Windows/System32/samu.exe"
-      - "C:/Windows/System32/samu"
-      - "C:/Windows/ninja-build.com"
-      - "C:/Windows/ninja-build.exe"
-      - "C:/Windows/ninja-build"
-      - "C:/Windows/ninja.com"
-      - "C:/Windows/ninja.exe"
-      - "C:/Windows/ninja"
-      - "C:/Windows/samu.com"
-      - "C:/Windows/samu.exe"
-      - "C:/Windows/samu"
-      - "C:/Windows/System32/wbem/ninja-build.com"
-      - "C:/Windows/System32/wbem/ninja-build.exe"
-      - "C:/Windows/System32/wbem/ninja-build"
-      - "C:/Windows/System32/wbem/ninja.com"
-      - "C:/Windows/System32/wbem/ninja.exe"
-      - "C:/Windows/System32/wbem/ninja"
-      - "C:/Windows/System32/wbem/samu.com"
-      - "C:/Windows/System32/wbem/samu.exe"
-      - "C:/Windows/System32/wbem/samu"
-      - "C:/Windows/System32/WindowsPowerShell/v1.0/ninja-build.com"
-      - "C:/Windows/System32/WindowsPowerShell/v1.0/ninja-build.exe"
-      - "C:/Windows/System32/WindowsPowerShell/v1.0/ninja-build"
-      - "C:/Windows/System32/WindowsPowerShell/v1.0/ninja.com"
-      - "C:/Windows/System32/WindowsPowerShell/v1.0/ninja.exe"
-      - "C:/Windows/System32/WindowsPowerShell/v1.0/ninja"
-      - "C:/Windows/System32/WindowsPowerShell/v1.0/samu.com"
-      - "C:/Windows/System32/WindowsPowerShell/v1.0/samu.exe"
-      - "C:/Windows/System32/WindowsPowerShell/v1.0/samu"
-      - "C:/Windows/System32/OpenSSH/ninja-build.com"
-      - "C:/Windows/System32/OpenSSH/ninja-build.exe"
-      - "C:/Windows/System32/OpenSSH/ninja-build"
-      - "C:/Windows/System32/OpenSSH/ninja.com"
-      - "C:/Windows/System32/OpenSSH/ninja.exe"
-      - "C:/Windows/System32/OpenSSH/ninja"
-      - "C:/Windows/System32/OpenSSH/samu.com"
-      - "C:/Windows/System32/OpenSSH/samu.exe"
-      - "C:/Windows/System32/OpenSSH/samu"
-      - "C:/Program Files/dotnet/ninja-build.com"
-      - "C:/Program Files/dotnet/ninja-build.exe"
-      - "C:/Program Files/dotnet/ninja-build"
-      - "C:/Program Files/dotnet/ninja.com"
-      - "C:/Program Files/dotnet/ninja.exe"
-      - "C:/Program Files/dotnet/ninja"
-      - "C:/Program Files/dotnet/samu.com"
-      - "C:/Program Files/dotnet/samu.exe"
-      - "C:/Program Files/dotnet/samu"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/ninja-build.com"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/ninja-build.exe"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/ninja-build"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/ninja.com"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/ninja.exe"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/ninja"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/samu.com"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/samu.exe"
-      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/samu"
-      - "C:/Program Files/Git/cmd/ninja-build.com"
-      - "C:/Program Files/Git/cmd/ninja-build.exe"
-      - "C:/Program Files/Git/cmd/ninja-build"
-      - "C:/Program Files/Git/cmd/ninja.com"
-      - "C:/Program Files/Git/cmd/ninja.exe"
-      - "C:/Program Files/Git/cmd/ninja"
-      - "C:/Program Files/Git/cmd/samu.com"
-      - "C:/Program Files/Git/cmd/samu.exe"
-      - "C:/Program Files/Git/cmd/samu"
-      - "C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/game/bin/win64/ninja-build.com"
-      - "C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/game/bin/win64/ninja-build.exe"
-      - "C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/game/bin/win64/ninja-build"
-      - "C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/game/bin/win64/ninja.com"
-      - "C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/game/bin/win64/ninja.exe"
-      - "C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/game/bin/win64/ninja"
-      - "C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/game/bin/win64/samu.com"
-      - "C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/game/bin/win64/samu.exe"
-      - "C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/game/bin/win64/samu"
-      - "C:/Program Files/nodejs/ninja-build.com"
-      - "C:/Program Files/nodejs/ninja-build.exe"
-      - "C:/Program Files/nodejs/ninja-build"
-      - "C:/Program Files/nodejs/ninja.com"
-      - "C:/Program Files/nodejs/ninja.exe"
-      - "C:/Program Files/nodejs/ninja"
-      - "C:/Program Files/nodejs/samu.com"
-      - "C:/Program Files/nodejs/samu.exe"
-      - "C:/Program Files/nodejs/samu"
-      - "C:/Program Files/CMake/bin/ninja-build.com"
-      - "C:/Program Files/CMake/bin/ninja-build.exe"
-      - "C:/Program Files/CMake/bin/ninja-build"
-      - "C:/Program Files/CMake/bin/ninja.com"
-      - "C:/Program Files/CMake/bin/ninja.exe"
-      - "C:/Program Files/CMake/bin/ninja"
-      - "C:/Program Files/CMake/bin/samu.com"
-      - "C:/Program Files/CMake/bin/samu.exe"
-      - "C:/Program Files/CMake/bin/samu"
-      - "C:/Users/hello kitik/AppData/Local/Microsoft/WindowsApps/ninja-build.com"
-      - "C:/Users/hello kitik/AppData/Local/Microsoft/WindowsApps/ninja-build.exe"
-      - "C:/Users/hello kitik/AppData/Local/Microsoft/WindowsApps/ninja-build"
-      - "C:/Users/hello kitik/AppData/Local/Microsoft/WindowsApps/ninja.com"
-      - "C:/Users/hello kitik/AppData/Local/Microsoft/WindowsApps/ninja.exe"
-      - "C:/Users/hello kitik/AppData/Local/Microsoft/WindowsApps/ninja"
-      - "C:/Users/hello kitik/AppData/Local/Microsoft/WindowsApps/samu.com"
-      - "C:/Users/hello kitik/AppData/Local/Microsoft/WindowsApps/samu.exe"
-      - "C:/Users/hello kitik/AppData/Local/Microsoft/WindowsApps/samu"
-      - "C:/Program Files/JetBrains/PyCharm 2025.1.1.1/bin/ninja-build.com"
-      - "C:/Program Files/JetBrains/PyCharm 2025.1.1.1/bin/ninja-build.exe"
-      - "C:/Program Files/JetBrains/PyCharm 2025.1.1.1/bin/ninja-build"
-      - "C:/Program Files/JetBrains/PyCharm 2025.1.1.1/bin/ninja.com"
-      - "C:/Program Files/JetBrains/PyCharm 2025.1.1.1/bin/ninja.exe"
-      - "C:/Program Files/JetBrains/PyCharm 2025.1.1.1/bin/ninja"
-      - "C:/Program Files/JetBrains/PyCharm 2025.1.1.1/bin/samu.com"
-      - "C:/Program Files/JetBrains/PyCharm 2025.1.1.1/bin/samu.exe"
-      - "C:/Program Files/JetBrains/PyCharm 2025.1.1.1/bin/samu"
-      - "C:/Program Files/JetBrains/CLion 2020.3.2/bin/ninja-build.com"
-      - "C:/Program Files/JetBrains/CLion 2020.3.2/bin/ninja-build.exe"
-      - "C:/Program Files/JetBrains/CLion 2020.3.2/bin/ninja-build"
-      - "C:/Program Files/JetBrains/CLion 2020.3.2/bin/ninja.com"
-      - "C:/Program Files/JetBrains/CLion 2020.3.2/bin/ninja.exe"
-      - "C:/Program Files/JetBrains/CLion 2020.3.2/bin/ninja"
-      - "C:/Program Files/JetBrains/CLion 2020.3.2/bin/samu.com"
-      - "C:/Program Files/JetBrains/CLion 2020.3.2/bin/samu.exe"
-      - "C:/Program Files/JetBrains/CLion 2020.3.2/bin/samu"
-      - "C:/Users/hello kitik/AppData/Local/Python/bin/ninja-build.com"
-      - "C:/Users/hello kitik/AppData/Local/Python/bin/ninja-build.exe"
-      - "C:/Users/hello kitik/AppData/Local/Python/bin/ninja-build"
-      - "C:/Users/hello kitik/AppData/Local/Python/bin/ninja.com"
-      - "C:/Users/hello kitik/AppData/Local/Python/bin/ninja.exe"
-      - "C:/Users/hello kitik/AppData/Local/Python/bin/ninja"
-      - "C:/Users/hello kitik/AppData/Local/Python/bin/samu.com"
-      - "C:/Users/hello kitik/AppData/Local/Python/bin/samu.exe"
-      - "C:/Users/hello kitik/AppData/Local/Python/bin/samu"
-      - "C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2025.3.3/bin/ninja-build.com"
-      - "C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2025.3.3/bin/ninja-build.exe"
-      - "C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2025.3.3/bin/ninja-build"
-      - "C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2025.3.3/bin/ninja.com"
-      - "C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2025.3.3/bin/ninja.exe"
-      - "C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2025.3.3/bin/ninja"
-      - "C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2025.3.3/bin/samu.com"
-      - "C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2025.3.3/bin/samu.exe"
-      - "C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2025.3.3/bin/samu"
-      - "C:/Users/hello kitik/AppData/Roaming/npm/ninja-build.com"
-      - "C:/Users/hello kitik/AppData/Roaming/npm/ninja-build.exe"
-      - "C:/Users/hello kitik/AppData/Roaming/npm/ninja-build"
-      - "C:/Users/hello kitik/AppData/Roaming/npm/ninja.com"
-      - "C:/Users/hello kitik/AppData/Roaming/npm/ninja.exe"
-      - "C:/Users/hello kitik/AppData/Roaming/npm/ninja"
-      - "C:/Users/hello kitik/AppData/Roaming/npm/samu.com"
-      - "C:/Users/hello kitik/AppData/Roaming/npm/samu.exe"
-      - "C:/Users/hello kitik/AppData/Roaming/npm/samu"
-      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.32.31326/bin/Hostx86/x86/ninja-build.com"
-      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.32.31326/bin/Hostx86/x86/ninja-build.exe"
-      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.32.31326/bin/Hostx86/x86/ninja-build"
-      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.32.31326/bin/Hostx86/x86/ninja.com"
-      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.32.31326/bin/Hostx86/x86/ninja.exe"
-      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.32.31326/bin/Hostx86/x86/ninja"
-      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.32.31326/bin/Hostx86/x86/samu.com"
-      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.32.31326/bin/Hostx86/x86/samu.exe"
-      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.32.31326/bin/Hostx86/x86/samu"
-    found: false
-    search_context:
-      ENV{PATH}:
-        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
-        - "C:\\WINDOWS\\system32"
-        - "C:\\WINDOWS"
-        - "C:\\WINDOWS\\System32\\Wbem"
-        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
-        - "C:\\WINDOWS\\System32\\OpenSSH\\"
-        - "C:\\Program Files\\dotnet\\"
-        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
-        - "C:\\Program Files\\Git\\cmd"
-        - "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Counter-Strike Global Offensive\\game\\bin\\win64"
-        - "C:\\Program Files\\nodejs\\"
-        - "C:\\Program Files\\CMake\\bin"
-        - "C:\\Users\\hello kitik\\AppData\\Local\\Microsoft\\WindowsApps"
-        - "C:\\Program Files\\JetBrains\\PyCharm 2025.1.1.1\\bin"
-        - "C:\\Program Files\\JetBrains\\CLion 2020.3.2\\bin"
-        - "C:\\Users\\hello kitik\\AppData\\Local\\Python\\bin"
-        - "C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2025.3.3\\bin"
-        - "C:\\Users\\hello kitik\\AppData\\Roaming\\npm"
-        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\Hostx86\\x86\\"
-      CMAKE_INSTALL_PREFIX: "C:/Users/hello kitik/Desktop/scaleform-main/out/install/x86-release"
-...
-
----
-events:
-  -
-    kind: "message-v1"
-    backtrace:
       - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeDetermineSystem.cmake:205 (message)"
       - "CMakeLists.txt:2 (project)"
     message: |
@@ -285,7 +39,7 @@ events:
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
       
       The C compiler identification is MSVC, found in:
-        C:/Users/hello kitik/Desktop/scaleform-main/out/build/x86-release/CMakeFiles/3.31.6-msvc6/CompilerIdC/CMakeCCompilerId.exe
+        C:/Users/hello kitik/Desktop/scaleform-main/ScaleformReborn/out/build/x86-release/CMakeFiles/3.31.6-msvc6/CompilerIdC/CMakeCCompilerId.exe
       
   -
     kind: "message-v1"
@@ -297,7 +51,7 @@ events:
     message: |
       Detecting C compiler /showIncludes prefix:
         main.c
-        Примечание: включение файла:  C:\\Users\\hello kitik\\Desktop\\scaleform-main\\out\\build\\x86-release\\CMakeFiles\\ShowIncludes\\foo.h
+        Примечание: включение файла:  C:\\Users\\hello kitik\\Desktop\\scaleform-main\\ScaleformReborn\\out\\build\\x86-release\\CMakeFiles\\ShowIncludes\\foo.h
         
       Found prefix "Примечание: включение файла:  "
   -
@@ -331,7 +85,7 @@ events:
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
       
       The CXX compiler identification is MSVC, found in:
-        C:/Users/hello kitik/Desktop/scaleform-main/out/build/x86-release/CMakeFiles/3.31.6-msvc6/CompilerIdCXX/CMakeCXXCompilerId.exe
+        C:/Users/hello kitik/Desktop/scaleform-main/ScaleformReborn/out/build/x86-release/CMakeFiles/3.31.6-msvc6/CompilerIdCXX/CMakeCXXCompilerId.exe
       
   -
     kind: "message-v1"
@@ -343,7 +97,7 @@ events:
     message: |
       Detecting CXX compiler /showIncludes prefix:
         main.c
-        Примечание: включение файла:  C:\\Users\\hello kitik\\Desktop\\scaleform-main\\out\\build\\x86-release\\CMakeFiles\\ShowIncludes\\foo.h
+        Примечание: включение файла:  C:\\Users\\hello kitik\\Desktop\\scaleform-main\\ScaleformReborn\\out\\build\\x86-release\\CMakeFiles\\ShowIncludes\\foo.h
         
       Found prefix "Примечание: включение файла:  "
   -
@@ -355,8 +109,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/hello kitik/Desktop/scaleform-main/out/build/x86-release/CMakeFiles/CMakeScratch/TryCompile-yed3b9"
-      binary: "C:/Users/hello kitik/Desktop/scaleform-main/out/build/x86-release/CMakeFiles/CMakeScratch/TryCompile-yed3b9"
+      source: "C:/Users/hello kitik/Desktop/scaleform-main/ScaleformReborn/out/build/x86-release/CMakeFiles/CMakeScratch/TryCompile-xy0hsk"
+      binary: "C:/Users/hello kitik/Desktop/scaleform-main/ScaleformReborn/out/build/x86-release/CMakeFiles/CMakeScratch/TryCompile-xy0hsk"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -365,11 +119,11 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/hello kitik/Desktop/scaleform-main/out/build/x86-release/CMakeFiles/CMakeScratch/TryCompile-yed3b9'
+        Change Dir: 'C:/Users/hello kitik/Desktop/scaleform-main/ScaleformReborn/out/build/x86-release/CMakeFiles/CMakeScratch/TryCompile-xy0hsk'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_5661a
-        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x86\\cl.exe  /nologo   /DWIN32 /D_WINDOWS  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_5661a.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_5661a.dir\\ /FS -c "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.31\\Modules\\CMakeCCompilerABI.c"
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_5661a.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x86\\link.exe /nologo CMakeFiles\\cmTC_5661a.dir\\CMakeCCompilerABI.c.obj  /out:cmTC_5661a.exe /implib:cmTC_5661a.lib /pdb:cmTC_5661a.pdb /version:0.0 /machine:X86  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_78858
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x86\\cl.exe  /nologo   /DWIN32 /D_WINDOWS  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_78858.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_78858.dir\\ /FS -c "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.31\\Modules\\CMakeCCompilerABI.c"
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_78858.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x86\\link.exe /nologo CMakeFiles\\cmTC_78858.dir\\CMakeCCompilerABI.c.obj  /out:cmTC_78858.exe /implib:cmTC_78858.lib /pdb:cmTC_78858.pdb /version:0.0 /machine:X86  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -409,8 +163,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/hello kitik/Desktop/scaleform-main/out/build/x86-release/CMakeFiles/CMakeScratch/TryCompile-l2pezo"
-      binary: "C:/Users/hello kitik/Desktop/scaleform-main/out/build/x86-release/CMakeFiles/CMakeScratch/TryCompile-l2pezo"
+      source: "C:/Users/hello kitik/Desktop/scaleform-main/ScaleformReborn/out/build/x86-release/CMakeFiles/CMakeScratch/TryCompile-y9g3cy"
+      binary: "C:/Users/hello kitik/Desktop/scaleform-main/ScaleformReborn/out/build/x86-release/CMakeFiles/CMakeScratch/TryCompile-y9g3cy"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -420,11 +174,11 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/hello kitik/Desktop/scaleform-main/out/build/x86-release/CMakeFiles/CMakeScratch/TryCompile-l2pezo'
+        Change Dir: 'C:/Users/hello kitik/Desktop/scaleform-main/ScaleformReborn/out/build/x86-release/CMakeFiles/CMakeScratch/TryCompile-y9g3cy'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_22cbf
-        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x86\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_22cbf.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_22cbf.dir\\ /FS -c "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_22cbf.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x86\\link.exe /nologo CMakeFiles\\cmTC_22cbf.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_22cbf.exe /implib:cmTC_22cbf.lib /pdb:cmTC_22cbf.pdb /version:0.0 /machine:X86  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_ecdf3
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x86\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_ecdf3.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_ecdf3.dir\\ /FS -c "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_ecdf3.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x86\\link.exe /nologo CMakeFiles\\cmTC_ecdf3.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_ecdf3.exe /implib:cmTC_ecdf3.lib /pdb:cmTC_ecdf3.pdb /version:0.0 /machine:X86  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -

@@ -1,3 +1,3 @@
-C:/Users/hello kitik/Desktop/scaleform-main/out/build/x86-release/CMakeFiles/TeamSCALEFORM.dir
-C:/Users/hello kitik/Desktop/scaleform-main/out/build/x86-release/CMakeFiles/edit_cache.dir
-C:/Users/hello kitik/Desktop/scaleform-main/out/build/x86-release/CMakeFiles/rebuild_cache.dir
+C:/Users/hello kitik/Desktop/scaleform-main/ScaleformReborn/out/build/x86-release/CMakeFiles/TeamSCALEFORM.dir
+C:/Users/hello kitik/Desktop/scaleform-main/ScaleformReborn/out/build/x86-release/CMakeFiles/edit_cache.dir
+C:/Users/hello kitik/Desktop/scaleform-main/ScaleformReborn/out/build/x86-release/CMakeFiles/rebuild_cache.dir

@@ -162,8 +162,7 @@ if (alertText) {
     alertText.style.marginTop = '5px';
     alertText.style.color = '#FFFFFF';
     alertText.style.textShadow = '1px 1px 2px #000000';
-    // Test background (remove after verifying)
-    alertText.style.backgroundColor = '#FF0000';
+    // Красный фон удалён
 }
 
 var alertBg = contextPanel.FindChildTraverse('AlertBg');
